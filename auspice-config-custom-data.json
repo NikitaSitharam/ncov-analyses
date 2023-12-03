@@ -2,7 +2,7 @@
   "colorings": [
     {
       "key": "custom_data",
-      "title": "Custom data",
+      "title": "Africa data",
       "type": "categorical",
       "legend": [
         {"value": "no"},
